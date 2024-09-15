@@ -4,6 +4,10 @@
            "leaderName": "Ryan Cuball",
            "adjective": ["VividValean"],
            "startBias": ["Coast","Avoid [Tundra]"],
+
+          "startIntroPart1": "Dear Sarah, It has been a while since I've sent a letter to you, I would like to remind you that I am here to united the people of VividVale by learning from the mistakes of the Federation. VividVales multiculturalism devided the country to multiple traditions which often conflicted with others. I'm here to create a group which supports each other, not to fight against itself.",
+          "startIntroPart2": "And now as the new leader of this group, I will bring VividVale to a more united and peaceful place. even if it means assimilation. Sincerely, Ryan. - Letter to Sarah, last leader of the group.",
+                             
      },
 ]
 
