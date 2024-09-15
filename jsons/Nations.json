@@ -17,8 +17,8 @@
           "hateHello": "The f**k do you want?",
           "tradeRequest": "Want to trade? We will respect you if you respect us.",
 
-          "outerColor": [],
-          "innerColor": [],
+          "outerColor": [42, 181, 29],
+          "innerColor": [255, 255, 255],
           "style": "",
           "uniqueName": "Cultural Assimilation",
           "cities": ["South Camp","Duck Park","Green Beach","Zoo Park","Camp Striker","Golden","Occurs Camp","Tontah","Oaks Beach","Vivid Campgrounds","Gren Green","Bens Tent"]
