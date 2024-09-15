@@ -5,7 +5,7 @@
           "adjective": ["VividValean"],
           "startBias": ["Coast","Avoid [Tundra]"],
 
-          "startIntroPart1": "Dear Sarah, It has been a while since I've sent a letter to you, I would like to remind you that I am here to united the people of VividVale by learning from the mistakes of the Federation. VividVales multiculturalism devided the country to multiple traditions which often conflicted with others. I'm here to create a group which supports each other, not to fight against itself.",
+          "startIntroPart1": "Dear Sarah, It has been a while since I've sent a letter to you, I would like to remind you that I am here to unite the people of VividVale by learning from the mistakes of the Federation. VividVales multiculturalism devided the country to multiple traditions which often conflicted with others. I'm here to create a group which supports each other, not to fight against itself.",
           "startIntroPart2": "And now as the new leader of this group, I will bring VividVale to a more united and peaceful place. even if it means assimilation. Sincerely, Ryan. - Letter to Sarah, last leader of the group.",
 
           "declaringWar": "If we need to go to war, then so be it.",
@@ -17,7 +17,7 @@
           "hateHello": "The f**k do you want?",
           "tradeRequest": "Want to trade? We will respect you if you respect us.",
 
-          "outerColor": [42, 181, 29],
+          "outerColor": [25, 135, 15],
           "innerColor": [255, 255, 255],
           "style": "",
           "uniqueName": "Cultural Assimilation",
