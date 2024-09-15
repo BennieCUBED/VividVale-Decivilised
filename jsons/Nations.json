@@ -21,6 +21,7 @@
           "innerColor": [255, 255, 255],
           "style": "",
           "uniqueName": "Cultural Assimilation",
+          "uniques": ["[+1 Production, +1 Science] in cities on [Coastal] tiles"],
           "cities": ["South Camp","Duck Park","Green Beach","Zoo Park","Camp Striker","Golden","Occurs Camp","Tontah","Oaks Beach","Vivid Campgrounds","Gren Green","Bens Tent"]
                              
      },
