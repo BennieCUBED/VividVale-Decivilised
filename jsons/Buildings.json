@@ -1,0 +1,15 @@
+[
+      {
+		"name": "Campsite",
+    "food": 1,
+    "culture": 1,
+		"replaces": "Greenhouse",
+		"uniqueTo": "South VividVale Community",
+		"requiredTech": "Botany",
+		"maintenance": 1,
+		"hurryCostModifier": 30,
+		"uniques": ["[+25]% Great Person generation [in this city]",
+			    "[+1 Production] from [Bonus resource] tiles [in this city]","[+1 Happiness] <if [Congress] is constructed>"]
+	},
+
+]
