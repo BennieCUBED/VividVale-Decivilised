@@ -1,0 +1,21 @@
+[
+  	{
+		"name": "Bush Ranger",
+		"unitType": "Shooter",
+    "uniqueTo": "South VividVale Community",
+    "replaces": "Gunman",
+		"range": 1,
+		"movement": 3,
+		"strength": 30,
+		"rangedStrength": 24,
+		"interceptRange": 1,
+		"cost": 60,
+		"requiredTech": "The Wheel",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Rifleman",
+		"hurryCostModifier": 20,
+		"uniques": ["Personnel", "Consumes [1] [Weapons]"],
+		"attackSound": "shot",
+	},
+
+]
