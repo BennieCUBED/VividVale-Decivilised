@@ -1,9 +1,9 @@
 [
   	{
-		"name": "Bush Ranger",
+		"name": "Swagman",
 		"unitType": "Shooter",
-    "uniqueTo": "South VividVale Community",
-    "replaces": "Gunman",
+                "uniqueTo": "South VividVale Community",
+                "replaces": "Gunman",
 		"range": 1,
 		"movement": 3,
 		"strength": 30,
