@@ -14,7 +14,7 @@
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Rifleman",
 		"hurryCostModifier": 20,
-		"uniques": ["Personnel", "Consumes [1] [Weapons]"],
+		"uniques": ["Personnel", "Consumes [1] [Weapons]", "Can build [Camp] improvements on tiles"],
 		"attackSound": "shot",
 	},
 
