@@ -18,6 +18,41 @@ NationIcons/South VividVale Community
   orig: 160, 160
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Archer-VividValean
+  rotate: false
+  xy: 268, 302
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Scout-VividValean
+  rotate: false
+  xy: 436, 470
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Spearman-VividValean
+  rotate: false
+  xy: 476, 470
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Swagman
+  rotate: false
+  xy: 268, 266
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Worker-VividValean
+  rotate: false
+  xy: 308, 302
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 UnitIcons/Swagman
   rotate: false
   xy: 4, 4
