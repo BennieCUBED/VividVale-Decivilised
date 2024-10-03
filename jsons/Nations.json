@@ -1,7 +1,6 @@
 [
      {
           "name": "South VividVale Community",
-          "style": "VividValean",
           "leaderName": "Ryan Cuball",
           "adjective": ["VividValean"],
           "startBias": ["Coast","Avoid [Tundra]"],
@@ -20,12 +19,13 @@
 
           "outerColor": [25, 135, 15],
           "innerColor": [255, 255, 255],
-          "style": "",
+          "style": "VividValean",
           "uniqueName": "Cultural Assimilation",
           "uniques": ["[+1 Production, +1 Science] in cities on [Coastal] tiles"],
           "cities": ["South Camp","Duck Park","Green Beach","Zoo Park","Camp Striker","Golden","Occurs Camp","Tontah","Oaks Beach","Vivid Campgrounds","Gren Green","Bens Tent"]
                              
      },
+     
 ]
 
  
