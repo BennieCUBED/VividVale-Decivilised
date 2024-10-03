@@ -44,10 +44,10 @@
           "HateHello": "Hmm? Quid est hoc?",
           "TradeRequest": "Visne commercium cum Vividstrone?",
 
-          "innerColor": [],
-          "outerColor": [],
-          "uniqueName": "status Unitarius",
-          "uniques": [""],
+          "innerColor": [20, 66, 219],
+          "outerColor": [232, 181, 28],
+          "uniqueName": "Unitary state",
+          "uniques": ["[20]% [Science] <starting from the [Rebuilding era]>","Receive triple Gold from Barbarian encampments and pillaging Cities"],
           "cities": ["New Vividstrone","East Vividstrone","Trevor Street","Roland Valley","Gibson","Beta Alley","Samson","Big Bits","Neo Land","Australis"],
     },   
 
