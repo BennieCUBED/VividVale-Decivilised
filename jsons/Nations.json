@@ -24,9 +24,34 @@
           "uniques": ["[+1 Production, +1 Science] in cities on [Coastal] tiles"],
           "cities": ["South Camp","Duck Park","Green Beach","Zoo Park","Camp Striker","Golden","Occurs Camp","Tontah","Oaks Beach","Vivid Campgrounds","Gren Green","Bens Tent"]
                              
-     },
-     
-]
+},
+    {
+          "name": "Vividstrone Union",
+          "style": "VividValean",
+          "leaderName": "Toby Minton",
+          "adjective": ["VividValean"],
+          "startBias": ["Ruins"],
+
+          "startIntroPart1": "Ah, VividVale. Patria quondam magna et pulchra, bello et terrore vitioso destructa... Sed nos in Vividstrone, nobis datum est negotium ut nostram olim perfectam gentem reficere ad pristinum se cum consilio et voluntate nostra. unitas progressus est inevitabilis!",
+          "startIntroPart2": "Ergo parati sumus ad hanc redactam regionem coniungendam? an perditi chaos deserti?- Oratio Tobiorum ad paucos selectos incolarum Vividstronae",
+
+          "declaringWar": "Omnes feros es et agetur.",
+          "attacked": "parva caterva deprimitur a gente quae mori negat? miserere.",
+          "defeated": "Foederatio interitus et chaos. quid nunc?",
+          "introduction": "Salve, barbari. Nos hic sumus ad pristinam gentem VividVale, gradum ad tempus reficere.",
+
+          "neutralHello": "Salve, Praefectus",
+          "HateHello": "Hmm? Quid est hoc?",
+          "TradeRequest": "Visne commercium cum Vividstrone?",
+
+          "innerColor": [],
+          "outerColor": [],
+          "uniqueName": "status Unitarius",
+          "uniques": [""],
+          "cities": "Novum Vividstrone", "Orientis Vividstrone", "Trevor platea", "Vallis Roland", "Gibson", "Beta Alley", "Samson", "Magna frena", "Neo Land", "Australis"],
+    },   
+
+ ]
 
  
  
