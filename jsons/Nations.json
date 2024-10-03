@@ -1,6 +1,7 @@
 [
      {
           "name": "South VividVale Community",
+          "style": "VividValean",
           "leaderName": "Ryan Cuball",
           "adjective": ["VividValean"],
           "startBias": ["Coast","Avoid [Tundra]"],
