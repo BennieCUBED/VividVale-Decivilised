@@ -32,7 +32,7 @@
           "adjective": ["VividValean"],
           "startBias": ["Ruins"],
 
-          "startIntroPart1": "Ah, VividVale. Patria quondam magna et pulchra, bello et terrore vitioso destructa... Sed nos in Vividstrone, nobis datum est negotium ut nostram olim perfectam gentem reficere ad pristinum se cum consilio et voluntate nostra. unitas progressus est inevitabilis!",
+          "startIntroPart1": "Ah, VividVale. A once great and beautiful country, destroyed by war and vicious terror... But we in Vividstrone have been given the task of rebuilding our once perfect nation to its former self when by our will, unity and development is inevitable!",
           "startIntroPart2": "Ergo parati sumus ad hanc redactam regionem coniungendam? an perditi chaos deserti?- Oratio Tobiorum ad paucos selectos incolarum Vividstronae",
 
           "declaringWar": "Omnes feros es et agetur.",
@@ -48,7 +48,7 @@
           "outerColor": [],
           "uniqueName": "status Unitarius",
           "uniques": [""],
-          "cities": "Novum Vividstrone", "Orientis Vividstrone", "Trevor platea", "Vallis Roland", "Gibson", "Beta Alley", "Samson", "Magna frena", "Neo Land", "Australis"],
+          "cities": ["New Vividstrone","East Vividstrone","Trevor Street","Roland Valley","Gibson","Beta Alley","Samson","Big Bits","Neo Land","Australis"],
     },   
 
  ]
