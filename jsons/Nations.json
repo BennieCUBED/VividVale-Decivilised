@@ -33,16 +33,16 @@
           "startBias": ["Ruins"],
 
           "startIntroPart1": "Ah, VividVale. A once great and beautiful country, destroyed by war and vicious terror... But we in Vividstrone have been given the task of rebuilding our once perfect nation to its former self when by our will, unity and development is inevitable!",
-          "startIntroPart2": "Ergo parati sumus ad hanc redactam regionem coniungendam? an perditi chaos deserti?- Oratio Tobiorum ad paucos selectos incolarum Vividstronae",
+          "startIntroPart2": "So are we ready to unite this divided country? Or are we lost to the chaos of the badlands? -Toby to some of the residents of Vividstrone",
 
-          "declaringWar": "Omnes feros es et agetur.",
-          "attacked": "parva caterva deprimitur a gente quae mori negat? miserere.",
-          "defeated": "Foederatio interitus et chaos. quid nunc?",
-          "introduction": "Salve, barbari. Nos hic sumus ad pristinam gentem VividVale, gradum ad tempus reficere.",
+          "declaringWar": "You are all savages and will be dealt with.",
+          "attacked": "A group is invaded by a nation that refuses to die? such a pity.",
+          "defeated": "Congratulations, the federation is forever lost to chaos, what now?",
+          "introduction": "Greetings, barbarians. We are here to restore the old nation of VividVale, one step at a time.",
 
-          "neutralHello": "Salve, Praefectus",
-          "HateHello": "Hmm? Quid est hoc?",
-          "TradeRequest": "Visne commercium cum Vividstrone?",
+          "neutralHello": "Morning, governor",
+          "HateHello": "Hmm? what is it?",
+          "TradeRequest": "Do you want to interact with Vividstrone?",
 
           "innerColor": [20, 66, 219],
           "outerColor": [232, 181, 28],
