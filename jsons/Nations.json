@@ -69,11 +69,12 @@
           "hateHello": "Leave..!",
           "TradeRequest": "You would like to trade? you can try some of our fish if you'd like.",
 
-          "innerColor": [],
-          "outerColor": [],
+          "innerColor": [109, 140, 252],
+          "outerColor": [191, 101, 4],
           "uniqueName": "Was, and forever will be",
-          "uniques": [""],
-          "cities": ["Cod river","Tent","Two creeks","Waro"]
+          "uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory","[+1 Food, +1 Culture] from [Water resource] tiles [in all cities]","Cannot build [Settler] units"],
+          "cities": ["Cod river","Tent","Two creeks","Waro","Fire camp","New water","Simpson","Bindi","Wet frog","Sweep hills","Yaturr","People house"],
+     },
 
  ]
 
