@@ -49,7 +49,31 @@
           "uniqueName": "Unitary state",
           "uniques": ["[20]% [Science] <starting from the [Rebuilding era]>","Receive triple Gold from Barbarian encampments and pillaging Cities"],
           "cities": ["New Vividstrone","East Vividstrone","Trevor Street","Roland Valley","Gibson","Beta Alley","Samson","Big Bits","Neo Land","Australis"],
-    },   
+    },  
+     {
+          "name": "New Barnta Clan",
+          "style": "VividValean",
+          "leaderName": "Jesse Yaturr",
+          "adjective": ["Barnta"],
+          "startBias": ["Coast","Avoid [Ruins]"],
+
+          "startIntroPart1": "...The people of the Barnta tribe lived happily and free, many year ago. but were invaded by nation of VividVale, forced to live without meaning. but when the bombs dropped, the tribe was given another chance to defend their culture and homeland...",
+          "startIntroPart2": "...It's believed that a leader of passion, bravery and integrity would rise to rule the tribe one day, and create a beacon of hope within the dark world. - 'History of the Barnta clan, a book written by an unknown author'."
+
+          "declaringWar": "Can you hear that? it's the sound of pride! striking down the enemy!",
+          "attacked": "All you invaders are all the same...",
+          "defeated": "Our people will never be forgotten, this place will forever be ours..!",
+          "introduction": "Welcome, foreigner... you look exhausted, would you like to camp with us?",
+
+          "neutralHello": "Hello!",
+          "hateHello": "Leave..!",
+          "TradeRequest": "You would like to trade? you can try some of our fish if you'd like.",
+
+          "innerColor": [],
+          "outerColor": [],
+          "uniqueName": "Was, and forever will be",
+          "uniques": [""],
+          "cities": ["Cod river","Tent","Two creeks","Waro"]
 
  ]
 
