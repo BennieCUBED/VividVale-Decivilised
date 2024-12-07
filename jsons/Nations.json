@@ -93,9 +93,9 @@
 "defeated": "You've gunned my men, and now only one stands... you do the honors...",
 "introduction": "No sudden movements, mate. you're in our home now.",
 
-"innerColor": [],
-"outerColor": [],
-uniqueName": "Reach for the Sky!",
+"innerColor": [247, 224, 10],
+"outerColor": [135, 14, 5],
+"uniqueName": "Reach for the Sky!",
 "uniques": [""],
 "cities": ["Home Camp","Overlook","Ghost Plains"],
 },
