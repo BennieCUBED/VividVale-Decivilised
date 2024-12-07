@@ -96,7 +96,7 @@
 "innerColor": [247, 224, 10],
 "outerColor": [135, 14, 5],
 "uniqueName": "Reach for the Sky!",
-"uniques": ["When conquering an encampment, earn [90] Gold and recruit a Barbarian unit","[+15]% Strength <when fighting units from a Civilization with more Cities than you>","Units in cities cost no Maintenance","/Borrows/" city names from other civilizations in the game"],
+"uniques": ["When conquering an encampment, earn [90] Gold and recruit a Barbarian unit","[+15]% Strength <when fighting units from a Civilization with more Cities than you>","Units in cities cost no Maintenance","/"Borrows/" city names from other civilizations in the game"],
 "cities": ["Home Camp","Overlook","Ghost Plains"],
 },
 
