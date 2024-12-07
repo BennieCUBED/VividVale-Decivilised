@@ -75,6 +75,30 @@
           "uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory","[+1 Food, +1 Culture] from [Water resource] tiles [in all cities]","Cannot build [Settler] units"],
           "cities": ["Cod river","Tent","Two creeks","Waro","Fire camp","New water","Simpson","Bindi","Wet frog","Sweep hills","Yaturr","People house"],
      },
+      {
+"name": "Red Tent Gang",
+"leaderName": "Dan Umlaire",
+"adjective": ["Outlaw"],
+"startBias": ["Desert","Plains"],
+
+"startIntroPart1": "...then there stood the ragged traitor, eye to eye. in seconds the guns drew, straight to the eye...",
+"startIntroPart2": "...I'd never seen a man once thought invincible, cry and squirm like a coward. there stood the man, staring down at him until he died, that man was Dan Umlaire. -Dan, telling stories around the camp with his gang.",
+
+"neutralHello": "Don't do anything stupid...",
+"hateHello": "What, came to apologise? well it won't work...",
+"tradeRequest": "Got the goods? it's not like you've got a choice...",
+
+"declaringWar": "Prepare to die. Don't worry, I'll make it quick!",
+"attacked": "You don't know who you're messing with..!",
+"defeated": "You've gunned my men, and now only one stands... you do the honors...",
+"introduction": "No sudden movements, mate. you're in our home now.",
+
+"innerColor": [],
+"outerColor": [],
+uniqueName": "Reach for the Sky!",
+"uniques": [""],
+"cities": ["Home Camp","Overlook","Ghost Plains"],
+},
 
  ]
 
