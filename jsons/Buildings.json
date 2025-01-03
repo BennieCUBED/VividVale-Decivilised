@@ -12,4 +12,19 @@
 			    "[+1 Production] from [Bonus resource] tiles [in this city]","[+1 Happiness] <if [Congress] is constructed>"]
 	},
 
+       "name": "House of Politics",
+"replaces": "Congress",
+"uniqueTo": "Vividstrone Union",
+                "cost": 100,
+                "requiredTech": "Civil Service",
+                "uniques": [
+                        "[+1 Culture] per [4] population [in all cities]",
+                        "[-10]% Unhappiness from [Population] [in all cities]",
+                        "Only available <if [Search for Survivors] is constructed>",
+                        "Can only be built <in [Capital] cities>",
+                        "Only available <in cities without a [Council]>",
+                        "Destroyed when the city is captured"
+                ]
+        },
+
 ]
