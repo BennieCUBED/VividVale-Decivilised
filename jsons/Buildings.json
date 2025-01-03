@@ -19,8 +19,8 @@
 "cost": 100,
 "requiredTech": "Civil Service",
                 "uniques": [
-                        "[+1 Culture] per [4] population [in all cities]",
-                        "[-10]% Unhappiness from [Population] [in all cities]",
+                        "[+5 Culture] per [4] population [in capital]",
+                        "[-30]% Unhappiness from [Population] [in capital]",
                         "Only available <if [Search for Survivors] is constructed>",
                         "Can only be built <in [Capital] cities>",
                         "Only available <in cities without a [Council]>","Destroyed when the city is captured"
