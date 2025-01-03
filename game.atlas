@@ -1,6 +1,6 @@
 
 game.png
-size: 512, 512
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -11,44 +11,65 @@ BuildingIcons/Campsite
   orig: 256, 256
   offset: 0, 0
   index: -1
+NationIcons/New Barnta Clan
+  rotate: false
+  xy: 268, 242
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+NationIcons/Red Tent Gang
+  rotate: false
+  xy: 532, 242
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 NationIcons/South VividVale Community
   rotate: false
-  xy: 268, 338
+  xy: 1060, 338
   size: 160, 160
   orig: 160, 160
   offset: 0, 0
   index: -1
+NationIcons/Vividstrone Union
+  rotate: false
+  xy: 796, 242
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Archer-VividValean
   rotate: false
-  xy: 268, 302
+  xy: 242, 206
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Scout-VividValean
   rotate: false
-  xy: 436, 470
+  xy: 1060, 302
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Spearman-VividValean
   rotate: false
-  xy: 476, 470
+  xy: 1228, 470
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Swagman
   rotate: false
-  xy: 268, 266
+  xy: 242, 170
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Worker-VividValean
   rotate: false
-  xy: 308, 302
+  xy: 282, 206
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
