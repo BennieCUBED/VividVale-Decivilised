@@ -29,7 +29,7 @@
 		"requiredTech": "The Wheel",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Soldier",
-		"uniques": ["Personnel", "Consumes [1] [Weapons]"],
+		"uniques": ["Personnel", "Consumes [1] [Weapons]","[+20]% Strength <in [Foreign] tiles>","[+1] Movement <in [Enemy] tiles>"],
 		"hurryCostModifier": 20,
 		"attackSound": "shot",
 	},
